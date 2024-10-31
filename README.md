@@ -1,4 +1,4 @@
-### React-Resizable
+### React-Resizable (Fork)
 
 [View the Demo](https://react-grid-layout.github.io/react-resizable/index.html)
 
